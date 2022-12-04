@@ -23,8 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/gift/';
-// $config['base_url'] = 'https://www.vidyachetana.org/';
+// $config['base_url'] = 'http://localhost/gift/';
+$config['base_url'] = 'https://www.dmg.org.in/gift/';
 
 /*
 |--------------------------------------------------------------------------
