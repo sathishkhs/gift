@@ -1,3 +1,47 @@
+
+# <IfModule mod_rewrite.c>
+#     RewriteEngine On
+#     #RewriteBase /your_project/
+
+#     #Removes access to the system folder by users.
+#     #Additionally this will allow you to create a System.php controller,
+#     #previously this would not have been possible.
+#     #'system' can be replaced if you have renamed your system folder.
+#     RewriteCond %{REQUEST_URI} ^system.*
+#     RewriteRule ^(.*)$ /index.php?/$1 [L]
+
+#     #Checks to see if the user is attempting to access a valid file,
+#     #such as an image or css document, if this isn't true it sends the
+#     #request to index.php
+#     RewriteCond %{REQUEST_FILENAME} !-f
+#     RewriteCond %{REQUEST_FILENAME} !-d
+#     RewriteRule ^(.*)$ index.php?/$1 [L]
+# </IfModule>
+
+# <IfModule !mod_rewrite.c>
+#     # If we don't have mod_rewrite installed, all 404's
+#     # can be sent to index.php, and everything works as normal.
+#     # Submitted by: ElliotHaughin
+
+#     ErrorDocument 404 /index.php
+# </IfModule>
+# <IfModule mod_headers.c>
+#   <FilesMatch "\.(ttf|ttc|otf|eot|woff|woff2|font.css|css)$">
+#     Header set Access-Control-Allow-Origin "*"
+#   </FilesMatch>
+# </IfModule>
+
+# <IfModule mod_rewrite.c>
+# RewriteEngine On
+# RewriteCond %{REQUEST_URI} ^engine.*
+# RewriteRule ^(.*)$ /index.php?/$1 [L]
+# RewriteCond %{REQUEST_URI} ^myapp.*
+# RewriteRule ^(.*)$ /index.php?/$1 [L]
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteRule ^(.*)$ index.php?/$1 [L]
+# </IfModule>
+
 # Apache Configuration File
 
 # (!) Using `.htaccess` files slows down Apache, therefore, if you have access
@@ -235,21 +279,17 @@ AddDefaultCharset utf-8
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-# Option 1: rewrite www.example.com â†’ example.com
+# Option 1: rewrite www.example.com → example.com
 
-<IfModule mod_rewrite.c>
-   # ensure https
-RewriteCond %{HTTP:X-Forwarded-Proto} !https
-RewriteCond %{HTTPS} off
-RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
-RewriteCond %{HTTP_HOST} !^www\. [NC]
-RewriteRule ^ https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
-
-</IfModule>
+#<IfModule mod_rewrite.c>
+#    RewriteCond %{HTTPS} !=on
+#    RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+#    RewriteRule ^ http://%1%{REQUEST_URI} [R=301,L]
+#</IfModule>
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-# Option 2: rewrite example.com â†’ www.example.com
+# Option 2: rewrite example.com → www.example.com
 
 # Be aware that the following might not be a good idea if you use "real"
 # subdomains for certain parts of your website.
@@ -259,7 +299,6 @@ RewriteRule ^ https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 #    RewriteCond %{HTTP_HOST} !^www\..+$ [NC]
 #    RewriteRule ^ http://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 # </IfModule>
-
 
 # ##############################################################################
 # # SECURITY                                                                   #
@@ -572,5 +611,7 @@ FileETag None
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteRule ^(.*)$ index.php?/$1 [L]
+    RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+    RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
 </IfModule>
 
