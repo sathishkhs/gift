@@ -11,7 +11,7 @@
       <a href="independence-day"><img src="assets/images/backgrounds/home0page.jpg" class="d-block w-100" alt="..."></a>
     </div> -->
     <div class="carousel-item active">
-      <a href="sponsor-student-for-higher-education"><img src="assets/images/backgrounds/slider-higher.jpg" class="d-block w-100" alt="..."></a>
+      <a href="sponsor-student-for-higher-education"><img src="assets/images/gift/GITF-inner-banner-1300x460.jpg" class="d-block w-100" alt="..."></a>
     </div>
     <!-- <div class="carousel-item ">
       <a href="blog/post/educate-girls-international-day-of-girl-child"><img src="uploads/banners/international-day-banner.jpg" class="d-block w-100" alt="..."></a>

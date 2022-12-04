@@ -92,18 +92,16 @@ students education</p>
                         <div class="col-xl-6 col-lg-6 py-5">
                             <div class="we-inspire__right">
                                 <div class="we-inspire__img mt-1">
-                                    <img src="assets/images/backgrounds/student_img.jpg" alt="">
+                                    <img src="assets/images/gift/Tusaram-Reang.jpg" alt="">
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-6 col-lg-6 p-4 my-auto">
                             <div class="we-inspire__left">
                                 <div class="section-title text-left">
-                                    <h1 class="section-title__tagline thm-text">MAKING HIGHER EDUCATION ACCESSIBLE</h1>
+                                    <h1 class="section-title__tagline thm-text">GREAT INDIA TALLENT FOUNDATION</h1>
                                     <h2 class="section-title__title_small">ABOUT US</h2>
-                                    <p class="team-one__text-box">Vidya Chetana is a Scholarship Program initiated by Youth for Seva in 2009. This programme was conceived with the objective to support
-education of students hailing from underprivileged socio-economic backgrounds. The programme aims at providing scholarship to students
-pursuing PUC (10+2), Degree, Engineering, and Medical studies.</p>
+                                    <p class="team-one__text-box">"We don’t have a doctor around, so when someone in the family is not well, my mother resorts to traditional medicine. I want to become a doctor and help the people who live in our camp." "We don’t have a doctor around, so when someone in the family is not well, my mother resorts to traditional medicine. I want to become a doctor and help the people who live in our camp."</p>
 
                                     <a href="about-us" class="join-one__btn thm-btn px-2 py-1 mt-2">Read More</a>
                                 </div>
@@ -123,11 +121,11 @@ pursuing PUC (10+2), Degree, Engineering, and Medical studies.</p>
     <div class="row">
         <div class="col-md-5">
             <div class="section-title ">
-                <span class="section-title__tagline">Change a student’s life with education</span>
+                <span class="section-title__tagline">SUPPORT GREAT INDIA TALENT SCHOOL</span>
                 <h2 class="section-title__title_small">EDUCATE & EMPOWER
                 </h2>
                 <!-- <p class="mt-20">The Hospital Feeding Programme is our current intervention to ensure food security for family members of patients in Mumbai’s government hospitals.<br> Through this programme, we provide freshly prepared, locally palatable, nutritious meals on each day in government hospitals, totally free of cost. </p> -->
-                <p class="mt-20">Your support will help students from socio-economically and physically challenging backgrounds to complete their education. It will ensure continuity in their education, enable them to achieve their aspirations, and empower them to break free from their challenging backgrounds.</p>
+                <p class="mt-20">The Great India Talent School (GITS) aims to nurture children belonging to rural and tribal areas with holistic mainstream education and adequate nutrition. The 1st school was inaugurated in Kashirampara, Tripura, on 29 March 2017 and caters to the children of Reang tribe.</p>
                 <div class="col-md-4 mx-auto">
                     <a href="#" class="welcome-one__btn thm-btn"><i class="fas fa-arrow-circle-right"></i>Support Now</a>
                 </div>
@@ -214,10 +212,7 @@ pursuing PUC (10+2), Degree, Engineering, and Medical studies.</p>
                     </div>
                     <div class="feature-one__content">
                         <h3 class="text-dark">SELECTION</h3>
-                        <p class="text-dark">Our volunteers conduct a
-                            need assessment to identify
-                            eligible students for
-                            scholarship</p>
+                        <p class="text-dark">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     </div>
                 </div>
             </div>
@@ -231,9 +226,7 @@ pursuing PUC (10+2), Degree, Engineering, and Medical studies.</p>
                     <div class="feature-one__content">
                         <h3 class="text-dark">SCHOLARSHIP
                             DISBURSEMENT</h3>
-                        <p class="text-dark">Selected students are
-                            categorised stream-wise &amp;
-                            granted funds accordingly</p>
+                        <p class="text-dark">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     </div>
                 </div>
             </div>
@@ -247,10 +240,7 @@ pursuing PUC (10+2), Degree, Engineering, and Medical studies.</p>
                     <div class="feature-one__content">
                         <h3 class="text-dark">ENGAGEMENT WITH SELECTED
                             STUDENTS</h3>
-                        <p class="text-dark">Students also benefit from our
-                            career counselling, 21<sup>st</sup> century
-                            skills session, employability
-                            readiness program &amp; more.</p>
+                        <p class="text-dark">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     </div>
                 </div>
             </div>
@@ -321,10 +311,10 @@ pursuing PUC (10+2), Degree, Engineering, and Medical studies.</p>
 <!--Need Help Start-->
 <div class="container mt-30 pt-20 ">
     <div class="section-title text-center">
-        <span class="section-title__tagline">Your generosity can change lives of students in a big way!
+        <span class="section-title__tagline">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
         </span>
         <!-- <p class="mt-20">The Hospital Feeding Programme is our current intervention to ensure food security for family members of patients in Mumbai’s government hospitals.<br> Through this programme, we provide freshly prepared, locally palatable, nutritious meals on each day in government hospitals, totally free of cost. </p> -->
-        <p class="mt-20">Your support will ensure regular education for students from socio-economically challenging backgrounds and empower them to be resourceful individuals in the future.
+        <p class="mt-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu nunc congue, vestibulum purus ut, auctor justo. Nullam posuere sit amet dui a ullamcorper. Praesent hendrerit non arcu ut maximus.
         </p>
         <!-- <a href="need-for-hospital-feeding" class="welcome-one__btn thm-btn"><i class="fas fa-arrow-circle-right"></i>READ
               MORE</a> -->
@@ -340,37 +330,37 @@ pursuing PUC (10+2), Degree, Engineering, and Medical studies.</p>
 
 <section class="container-fluid mt-5 m">
     <div class="row">
-        <div class="col-md-6 col-lg-3 our-kitchen-three" style="background:url(assets/images/backgrounds/student_puc.jpg);">
+        <div class="col-md-6 col-lg-3 our-kitchen-three" style="background:url(assets/images/gift/Chanchalapathi-Dasa.jpg);">
             <a href="sponsor-for-education" class="mx-auto">
                 <div class="three-boxes__text-box three-kitchen-boxes ">
-                    <h2 class="">Sponsor a PUC Student</h2>
+                    <h2 class="">Chanchalapathi Dasa</h2>
                     <!-- <p class="three-boxes__text">To optimize cooking time and preserve the maximum nutrition</p> -->
 
                 </div>
             </a>
         </div>
-        <div class="col-md-6 col-lg-3 our-kitchen-three" style="background:url(assets/images/backgrounds/student_degree.jpg);">
+        <div class="col-md-6 col-lg-3 our-kitchen-three" style="background:url(assets/images/gift/Jai-Chaitanya-Dasa.jpg);">
             <a href="sponsor-for-education" class="mx-auto">
                 <div class="three-boxes__text-box three-kitchen-boxes ">
-                    <h2 class="">Sponsor a Degree Student</h2>
+                    <h2 class="">Jai Chaitanya Dasa</h2>
                     <!-- <p class="three-boxes__text">To optimize cooking time and preserve the maximum nutrition</p> -->
 
                 </div>
             </a>
         </div>
-        <div class="col-md-6 col-lg-3  our-kitchen-three" style="background:url(assets/images/backgrounds/student_engineering.jpg);">
+        <div class="col-md-6 col-lg-3  our-kitchen-three" style="background:url(assets/images/gift/mpp.jpg);">
             <a href="sponsor-for-education" class="mx-auto">
                 <div class="three-boxes__text-box three-kitchen-boxes ">
-                    <h2 class="">Sponsor an Engineering Student </h2>
+                    <h2 class="">Madhu Pandit Dasa</h2>
                     <!-- <p class="three-boxes__text">Daily fresh ingredients are processed with minimal contact</p> -->
 
                 </div>
             </a>
         </div>
-        <div class="col-md-6 col-lg-3  our-kitchen-three" style="background:url(assets/images/backgrounds/student_medicine.jpg);">
+        <div class="col-md-6 col-lg-3  our-kitchen-three" style="background:url(assets/images/gift/Stoka-Krishna-Dasa.jpg);">
             <a href="sponsor-for-education" class="mx-auto">
                 <div class="three-boxes__text-box three-kitchen-boxes ">
-                    <h2 class="">Sponsor a Medical Student</h2>
+                    <h2 class="">Stoka Krishna Swami</h2>
                     <!-- <p class="three-boxes__text">Hot & fresh meals delivered to each distribution point</p> -->
 
                 </div>
@@ -509,7 +499,7 @@ pursuing PUC (10+2), Degree, Engineering, and Medical studies.</p>
         <div class="col-md-5 mx-auto">
             <div class="section-title text-center">
                 <span class="section-title__tagline">Our Success Stories</span>
-                <h2 class="section-title__title_small">Straight from our beneficiaries
+                <h2 class="section-title__title_small">Straight from our students
                 </h2>
             </div>
         </div>
@@ -518,11 +508,11 @@ pursuing PUC (10+2), Degree, Engineering, and Medical studies.</p>
                 <div class="container ">
                     <div class="need-help__inner">
                         <div class="need-help__img need-help_image ">
-                            <img src="assets/images/testimonial/sahana_pic.jpg" style="width:100%" alt="">
+                            <img src="assets/images/gift/Tusaram-Reang.jpg" style="width:100%" alt="">
                         </div>
                         <div class="need-help__content need-help_content">
-                            <h4 class="need-help__title">Sahana</h4>
-                            <p class="need-help__text">I am Sahana , studying final year BTech in Presidency University, Bangalore. I come from an economically backward family. We are two siblings and my father has been bed ridden since 6 years. My mother is a teacher in a private school and is the sole earning members in our family. When I secured a seat in BTech, I had no means to support myself to take up the course, considering our financial status. Youth For Seva helped me to pursue my education by providing financial and mentoring support. I recently secured a placement in IBM, Bangalore. I am extremely grateful to Youth for Seva , Vidya Chetana for the invaluable assistance to help me to achieve my goal.</p>
+                            <h4 class="need-help__title">Tusaram Reang, Class IV</h4>
+                            <p class="need-help__text">We don’t have a doctor around, so when someone in the family is not well, my mother resorts to traditional medicine. I want to become a doctor and help the people who live in our camp.</p>
                             <a href="sahana" class="three-boxes__btn">CONTINUE READING</a>
                         </div>
                     </div>
@@ -530,11 +520,11 @@ pursuing PUC (10+2), Degree, Engineering, and Medical studies.</p>
                 <div class="container">
                     <div class="need-help__inner">
                         <div class="need-help__img need-help_image">
-                            <img src="assets/images/testimonial/pooja.jpg" style="width:100%" alt="">
+                            <img src="assets/images/gift/Orbilchondiram-Meska.jpg" style="width:100%" alt="">
                         </div>
                         <div class="need-help__content need-help_content">
-                            <h4 class="need-help__title">Pooja</h4>
-                            <p class="need-help__text">Hi all, I am Pooja. I am a proud beneficiary of Vidya Chetana scholarship. With the help of this scholarship, I could score 98.72 in my SSLC exam, which added wings to my dream of becoming an engineer. I am currently studying in BMS College of Engineering. For me, life was not very easy. My parents were struggling to make two ends meet. My mother works as domestic help, and my father runs a small shop. I used to study well, but I was always worried about how I could continue my higher education considering our financial background, then stepped in Vidya Chetana scholarship by Youth for Seva in my life. YFS team told me that I only need to study, and they will take care of my education expenses, there was nothing like it. Thanks to my donor, the entire team of Vidya Chetana, and Youth for Seva.</p>
+                            <h4 class="need-help__title">Orbilchondiram Meska, Class IV</h4>
+                            <p class="need-help__text">I like to come to school because I get to learn so many things. I want to become a pilot and fly planes when I grow up.</p>
                             <a href="pooja" class="three-boxes__btn">CONTINUE READING</a>
                         </div>
                     </div>
@@ -542,11 +532,11 @@ pursuing PUC (10+2), Degree, Engineering, and Medical studies.</p>
                 <div class="container">
                     <div class="need-help__inner">
                         <div class="need-help__img need-help_image">
-                            <img src="assets/images/testimonial/yathish_photo.jpg" style="width:100%" alt="">
+                            <img src="assets/images/gift/Felirung-Apeto.jpg" style="width:100%" alt="">
                         </div>
                         <div class="need-help__content need-help_content">
-                            <h4 class="need-help__title">Yathish KS</h4>
-                            <p class="need-help__text">I am Yathish from a village near Tumkur, Karnataka . I have completed BE (Mechanical ) from R V College of Engineering.Bangalore. My father has health issues. We live on the pension money of my father given by the Karnataka state government. I did my diploma after 10th std, I received a Vidya Chetana scholarship to continue my Engineering Degree .I have completed my Engineering with 6.8GPA, got placement in DXA technology. I am very thankful to the team for supporting my education.</p>
+                            <h4 class="need-help__title">Felirung Apeto, Class IV</h4>
+                            <p class="need-help__text">I really like this school because the teachers here teach really well and I get to play sports like high jump and long jump. Besides sports, I like singing a lot.</p>
                             <a href="yathish" class="three-boxes__btn">CONTINUE READING</a>
                         </div>
                     </div>
@@ -554,11 +544,11 @@ pursuing PUC (10+2), Degree, Engineering, and Medical studies.</p>
                 <div class="container">
                     <div class="need-help__inner">
                         <div class="need-help__img need-help_image">
-                            <img src="assets/images/testimonial/harshih_photo.jpg" style="width:100%" alt="">
+                            <img src="assets/images/gift/Nolbointi-Reang.jpg" style="width:100%" alt="">
                         </div>
                         <div class="need-help__content need-help_content">
-                            <h4 class="need-help__title">Harshith</h4>
-                            <p class="need-help__text">I would like to thank Youth for Seva Vidya Chetana for the invaluable support you provided to me during my education with your scholarships from 8th standard till 2nd PUC. Becoming a software engineer has always been what I wanted to be in life. I have no doubt in my mind to say that your financial assistance has made it so easy for me to spend more time on my studies and has put me on a path to greatness. At this moment I would like to share with u that I have been selected as a project engineer at Wipro which is a dream company of mine. Thank you again for the life-changing gift you have given and equipping me for a lifetime of success. </p>
+                            <h4 class="need-help__title">Nolbointi Reang, Class IV</h4>
+                            <p class="need-help__text">I like school because we get to involve in various extra-curricular and cultural activities. I like Mandoll (Reang dance). Our teacher, Miss Sudarshana is training us in this dance form.</p>
                             <a href="harshith" class="three-boxes__btn">CONTINUE READING</a>
                         </div>
                     </div>
@@ -729,10 +719,10 @@ pursuing PUC (10+2), Degree, Engineering, and Medical studies.</p>
                     <div class="testimonial-one__carousel owl-theme owl-carousel">
                         <!--Testimonial One Single-->
                         <div class="testimonial-one__single">
-                            <p class="testimonial-one__text">I have been associated with Youth For Seva from its inception. One of the important activities undertaken by them is Vidya Chetana Sponsor A Child initiative.This gives the donor joy and also satisfaction of educating a deserving Child. They inform us about the progress of the child in terms of the child's marks and other achievements. We also get to see and interact with the children.It gives enormous satisfaction that your donation goes to a noble/worthy cause and this NGO spends all the money for the cause and not for "establishment" expenses.</p>
+                            <p class="testimonial-one__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu nunc congue, vestibulum purus ut, auctor justo. Nullam posuere sit amet dui a ullamcorper. Praesent hendrerit non arcu ut maximus. Suspendisse potenti. Ut commodo dui diam, a semper odio malesuada in. </p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-img">
-                                    <img src="assets/images/testimonial/devendra_joshi_CSR.jpg" alt="">
+                                    <img src="assets/images/testimonial/testimonial-1-img-1.png" alt="">
                                     <div class="testimonial-one__quote">
 
                                     </div>
@@ -745,10 +735,10 @@ pursuing PUC (10+2), Degree, Engineering, and Medical studies.</p>
                         </div>
                         <!--Testimonial One Single-->
                         <div class="testimonial-one__single">
-                            <p class="testimonial-one__text">I have been associated with Youth For Seva from its inception. One of the important activities undertaken by them is Vidya Chetana Sponsor A Child initiative.This gives the donor joy and also satisfaction of educating a deserving Child. They inform us about the progress of the child in terms of the child's marks and other achievements. We also get to see and interact with the children.It gives enormous satisfaction that your donation goes to a noble/worthy cause and this NGO spends all the money for the cause and not for "establishment" expenses.</p>
+                            <p class="testimonial-one__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu nunc congue, vestibulum purus ut, auctor justo. Nullam posuere sit amet dui a ullamcorper. Praesent hendrerit non arcu ut maximus. Suspendisse potenti. Ut commodo dui diam, a semper odio malesuada in. </p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-img">
-                                    <img src="assets/images/testimonial/mayur_mehta_JBCPL.jpg" alt="">
+                                    <img src="assets/images/testimonial/testimonial-1-img-2.png" alt="">
                                     <div class="testimonial-one__quote">
 
                                     </div>

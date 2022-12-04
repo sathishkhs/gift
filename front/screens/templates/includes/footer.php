@@ -13,11 +13,11 @@
        <div class="footer-widget__column footer-widget__explore clearfix">
          <h3 class="footer-widget__title">Explore</h3>
          <ul class="footer-widget__explore-list list-unstyled ml-10">
-           <li><a href="about-vidya-chetana">About Us</a></li>
-           <li><a href="our-team">Our Team</a></li>
-           <li><a href="official-documents">Official Documents</a></li>
-           <li><a href="financial-transparency">Financial Transparency</a></li>
-           <li><a href="sponsor-for-education">Sponsor for Education</a></li>
+           <li><a href="#">About Us</a></li>
+           <li><a href="#">Our Team</a></li>
+           <li><a href="#">Official Documents</a></li>
+           <li><a href="#">Financial Transparency</a></li>
+           <li><a href="#">Sponsor for Education</a></li>
           
          </ul>
          <ul class="footer-widget__explore-list footer-widget__explore-list-two list-unstyled ml-10">

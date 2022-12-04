@@ -26,7 +26,7 @@
     --thm-gray-rgb: 112, 120, 118;
     /* --thm-primary: #15c8a0; */
     /* --thm-primary: #4db748; */
-    --thm-primary: #ea5638;
+    --thm-primary: #bb8732;
     /* --thm-primary-secondary: #fed018; */
     --thm-primary-secondary: #fed018;
     --thm-primary-rgb: 21, 200, 160;
@@ -567,8 +567,8 @@ h6 {
 }
 .main-menu .main-menu__list>li,
 .stricky-header .main-menu__list>li {
-    padding-top: 34.5px;
-    padding-bottom: 34.5px;
+    padding-top: 7.5px;
+    padding-bottom: 7.5px;
     position: relative;
 }
 
@@ -1077,7 +1077,7 @@ h6 {
     position: relative;
     float: right;
     padding-left: 0;
-    padding: 36.5px 0;
+    padding: 7.5px 0;
 }
 .main-menu-three__inner-upper{
     padding: 10px 0 2px;

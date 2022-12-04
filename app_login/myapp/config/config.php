@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = 'https://www.vidyachetana.org/app_login/';
-$config['base_url'] = 'http://localhost/vidyachetana.in/app_login/';
+$config['base_url'] = 'http://localhost/gift/app_login/';
 
 /*
 |--------------------------------------------------------------------------
